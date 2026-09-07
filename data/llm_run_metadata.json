@@ -1,0 +1,11 @@
+{
+  "provider": "google-genai",
+  "model": "gemini-3.1-flash-lite",
+  "run_date": "2026-09-07",
+  "n_scored": 1000,
+  "n_unparseable": 0,
+  "temperature": 0,
+  "random_state": 42,
+  "split": "validation only",
+  "prompt": "You are classifying patent documents.\n\nDecide whether the patent below describes a GREEN technology, meaning a technology\nwhose purpose is climate change mitigation or adaptation: renewable energy generation,\nenergy storage for decarbonisation, energy efficiency, carbon capture, waste recycling\nand circular material recovery, clean transport, or emission abatement.\n\nAnswer with exactly one word: green or nongreen.\n\nTitle: {title}\nAbstract: {abstract}"
+}
