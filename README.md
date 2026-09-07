@@ -8,7 +8,7 @@ Materials for the workshop held at the **DAISY International Summer School** —
 
 ## Open the notebook
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/USER/REPO/blob/main/notebooks/DAISY_text_to_data.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/martina-iori/DAISY_NLP_in_Python/blob/main/notebooks/DAISY_text_to_data.ipynb)
 
 Click the badge above. Nothing to install: the notebook runs in the browser on Google Colab. You will need a Google account.
 
