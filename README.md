@@ -66,7 +66,7 @@ Not needed for the workshop, but useful afterwards.
 
 ```bash
 git clone https://github.com/martina-iori/DAISY_NLP_in_Python.git
-cd REPO
+cd DAISY_NLP_in_Python
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
 jupyter lab notebooks/DAISY_text_to_data.ipynb
