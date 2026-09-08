@@ -53,7 +53,7 @@ We classify patent documents as *green* or *non-green* technologies using four f
 │   └── precompute_llm_gemini.py     # LLM run
 ├── data/
 |   ├── patstat_green_sample.csv     # dataset used in the workshop
-|   ├── llm_val_predictions.csv     # LLM prediction
+|   ├── llm_val_predictions.csv      # LLM prediction
 │   └── llm_run_metadata.json        # LLM metadata
 └── requirements.txt                 # for local runs only
 ```
@@ -89,6 +89,7 @@ The companion notebooks to that survey — a fuller short course covering prepro
 ## Contact
 
 Martina Iori — Università Cattolica del Sacro Cuore, Milan
+
 martina.iori@unicatt.it
 
 Materials released for educational use.
